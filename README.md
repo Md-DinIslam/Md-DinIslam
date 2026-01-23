@@ -1,4 +1,4 @@
-### I'm Muhammad DinIslam 👋
+### I'm Md. Din Islam 👋
 # 💫 About Me:
 🔭 I’m currently a student of 'Computer Science & Engineering' department<br>🌱 I’m currently learning Java, Python<br>👯 Also I'm doing Competitive Programming<br>⚡ What I like to do: I like so much playing, Cricket and Badminton. And Also coding of course
 
