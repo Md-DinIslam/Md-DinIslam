@@ -24,7 +24,7 @@
 
 - 🎓 B.Sc. student in **Computer Science & Engineering** at Green University of Bangladesh
 - 🧠 **ICPC Asia Dhaka Regionalist — 2025**
-- 💡 Competitive programmer with **2000+ problems solved** across multiple platforms
+- 💡 Solved **2,000+ programming problems** across multiple platforms
 - 🧩 Solved **170 / 400 problems on CSES**
 - ⭐ **Codeforces Highest Rating: 1314**
 - 👨‍🏫 Competitive Programming Mentor at **Green University of Bangladesh**
@@ -40,55 +40,55 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### ⚡ Backend Development
+### ⚡ Backend & APIs
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_Database-6C3483?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Database-6C3483?style=for-the-badge" />
 </p>
 
 ### 🧰 Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 Computer Science
+## 🧠 Core Skills
 
 - Data Structures & Algorithms
 - Competitive Programming
@@ -97,11 +97,12 @@
 - Database Management
 - Computer Networks
 - REST API Development
-- Software Development
+- Backend Development
+- Full-Stack Development
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### ♟️ Unlimited Chess Reviewer
 
@@ -112,14 +113,14 @@ A chess game analysis and review application designed to provide detailed, engin
 - ♟️ Automated game analysis
 - 🧠 Stockfish-powered move evaluation
 - 📊 Move-by-move game review
-- ⭐ Move classification including **Book, Best, Brilliant, Great, Mistake, and Blunder**
+- ⭐ Move classification: **Book, Best, Brilliant, Great, Mistake & Blunder**
 - 🔍 Opening book / Polyglot-based opening detection
 - 📈 Evaluation-based move quality analysis
-- 🎯 Multi-PV analysis for detecting critical moves and tactical opportunities
+- 🎯 Multi-PV analysis for critical moves and tactical opportunities
 - 📋 PGN-based game review
-- ♾️ Designed for unlimited chess game analysis
+- ♾️ Unlimited chess game analysis
 
-🔗 **[View Project](https://github.com/Md-DinIslam/unlimited-chess-reviewer)**
+🔗 **[View Project →](https://github.com/Md-DinIslam/unlimited-chess-reviewer)**
 
 ---
 
@@ -137,31 +138,30 @@ A Java-based network chat application supporting communication between multiple 
 - 🌐 Socket programming
 - 🗄️ MySQL integration
 
-🔗 **[View Project](https://github.com/Md-DinIslam/Multi-Client-ChatApp)**
+🔗 **[View Project →](https://github.com/Md-DinIslam/Multi-Client-ChatApp)**
 
 ---
 
-### 💻 More Projects
+### 📂 More Projects
 
-Check out my GitHub repositories for more projects involving **competitive programming, software development, web development, and modern technologies.**
+Explore my GitHub repositories for more projects involving **software development, web development, competitive programming, and modern technologies**.
 
-🔗 **[Explore My Repositories →](https://github.com/Md-DinIslam?tab=repositories)**
+🔗 **[Explore All Repositories →](https://github.com/Md-DinIslam?tab=repositories)**
 
 ---
 
 ## 🏆 Competitive Programming
 
-Competitive programming is one of the biggest parts of my programming journey.
-
 | Platform / Area | Achievement |
 |---|---:|
-| 🟣 Codeforces | **1314 Max Rating** |
+| 🟣 Codeforces | **Highest Rating: 1314** |
+| 🧩 CSES | **170 / 400 Problems Solved** |
 | 🌐 Various Platforms | **2,000+ Problems Solved** |
 | 🏆 ICPC | **Asia Dhaka Regionalist — 2025** |
 
 ### 🥇 Contest Highlights
 
-- 🏅 **ICPC Asia Dhaka Regionalist — 2025**
+- 🏆 **ICPC Asia Dhaka Regionalist — 2025**
 - 🏅 **31st — IUCPC at BUBT, 2025**
 - 🏅 **58th — IUPC at CUET, 2025**
 - 🏅 **50th — IUPC at Metropolitan University, 2025**
@@ -175,8 +175,8 @@ Competitive programming is one of the biggest parts of my programming journey.
 **Green University of Bangladesh**  
 *February 2025 – Present*
 
-- Mentor undergraduate students in Data Structures, Algorithms, and problem solving.
-- Guide students through Codeforces and CSES-style problems.
+- Mentor undergraduate students in **Data Structures, Algorithms, and problem solving**.
+- Guide students through **Codeforces and CSES-style problems**.
 - Help students improve logical thinking and time-complexity analysis.
 
 ### 🏛️ General Secretary
@@ -184,8 +184,8 @@ Competitive programming is one of the biggest parts of my programming journey.
 *April 2025 – April 2026*
 
 - Organized competitive programming workshops and internal contests.
-- Coordinated mentoring activities.
-- Supported students in developing programming and problem-solving skills.
+- Coordinated mentoring and programming activities.
+- Supported students in developing problem-solving skills.
 
 ---
 
@@ -210,27 +210,21 @@ Expected: **January 2027**
 
 ---
 
-## 🏆 Competitive Programming
+## 🌐 Competitive Programming Profiles
 
-Competitive programming is one of the biggest parts of my programming journey.
+<p>
+  <a href="https://codeforces.com/profile/din">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 
-| Platform / Area | Achievement |
-|---|---:|
-| 🟣 Codeforces | **Highest Rating: 1314** |
-| 🧩 CSES | **170 / 400 Problems Solved** |
-| 🌐 Various Platforms | **2000+ Problems Solved** |
-| 🏆 ICPC | **Asia Dhaka Regionalist — 2025** |
+  <a href="https://cses.fi/">
+    <img src="https://img.shields.io/badge/CSES-Profile-2E8B57?style=for-the-badge" />
+  </a>
 
-### 🥇 Contest & Problem-Solving Highlights
-
-- 💻 **2000+ Problems — Across Various Platforms**
-- 🧩 **170 / 400 Problems — CSES**
-- 🟣 **Codeforces Highest Rating — 1314**
-- 🏆 **ICPC Asia Dhaka Regionalist — 2025**
-- 🏅 **31st — IUCPC at BUBT, 2025**
-- 🏅 **58th — IUPC at CUET, 2025**
-- 🏅 **50th — IUPC at Metropolitan University, 2025**
-- 🥉 **4th Runner-Up — Inter Department Programming Contest, GUB, 2024**
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
