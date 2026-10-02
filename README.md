@@ -102,6 +102,26 @@
 
 ## 🚀 Projects
 
+### ♟️ Unlimited Chess Reviewer
+
+A chess game analysis and review application designed to provide detailed, engine-powered feedback on chess games.
+
+**Highlights:**
+
+- ♟️ Automated game analysis
+- 🧠 Stockfish-powered move evaluation
+- 📊 Move-by-move game review
+- ⭐ Move classification including **Book, Best, Brilliant, Great, Mistake, and Blunder**
+- 🔍 Opening book / Polyglot-based opening detection
+- 📈 Evaluation-based move quality analysis
+- 🎯 Multi-PV analysis for detecting critical moves and tactical opportunities
+- 📋 PGN-based game review
+- ♾️ Designed for unlimited chess game analysis
+
+🔗 **[View Project](https://github.com/Md-DinIslam/unlimited-chess-reviewer)**
+
+---
+
 ### 💬 Multi-Client Chat Application
 
 A Java-based network chat application supporting communication between multiple users.
@@ -118,6 +138,8 @@ A Java-based network chat application supporting communication between multiple 
 
 🔗 **[View Project](https://github.com/Md-DinIslam/Multi-Client-ChatApp)**
 
+---
+
 ### 💻 More Projects
 
 Check out my GitHub repositories for more projects involving **competitive programming, software development, web development, and modern technologies.**
@@ -133,8 +155,7 @@ Competitive programming is one of the biggest parts of my programming journey.
 | Platform / Area | Achievement |
 |---|---:|
 | 🟣 Codeforces | **1314 Max Rating** |
-| 🧩 Codeforces | **1250+ Problems** |
-| 🌐 Various Platforms | **1,800+ Problems Solved** |
+| 🌐 Various Platforms | **2,000+ Problems Solved** |
 | 🏆 ICPC | **Asia Dhaka Regionalist — 2025** |
 
 ### 🥇 Contest Highlights
@@ -188,22 +209,27 @@ Expected: **January 2027**
 
 ---
 
-## 🌐 Competitive Programming Profiles
+## 🏆 Competitive Programming
 
-<p>
-<a href="https://codeforces.com/profile/din">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
+Competitive programming is one of the biggest parts of my programming journey.
 
-<a href="https://cses.fi/">
-<img src="https://img.shields.io/badge/CSES-Profile-2E8B57?style=for-the-badge" />
-</a>
+| Platform / Area | Achievement |
+|---|---:|
+| 🟣 Codeforces | **Highest Rating: 1314** |
+| 🧩 CSES | **170 / 400 Problems Solved** |
+| 🌐 Various Platforms | **2000+ Problems Solved** |
+| 🏆 ICPC | **Asia Dhaka Regionalist — 2025** |
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+### 🥇 Contest & Problem-Solving Highlights
 
-</p>
+- 💻 **2000+ Problems — Across Various Platforms**
+- 🧩 **170 / 400 Problems — CSES**
+- 🟣 **Codeforces Highest Rating — 1314**
+- 🏆 **ICPC Asia Dhaka Regionalist — 2025**
+- 🏅 **31st — IUCPC at BUBT, 2025**
+- 🏅 **58th — IUPC at CUET, 2025**
+- 🏅 **50th — IUPC at Metropolitan University, 2025**
+- 🥉 **4th Runner-Up — Inter Department Programming Contest, GUB, 2024**
 
 ---
 
