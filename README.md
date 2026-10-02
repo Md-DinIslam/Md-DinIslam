@@ -24,8 +24,9 @@
 
 - 🎓 B.Sc. student in **Computer Science & Engineering** at Green University of Bangladesh
 - 🧠 **ICPC Asia Dhaka Regionalist — 2025**
-- 💡 Competitive programmer with **1,800+ problems solved**
-- ⭐ Codeforces max rating: **1314**
+- 💡 Competitive programmer with **2000+ problems solved** across multiple platforms
+- 🧩 Solved **170 / 400 problems on CSES**
+- ⭐ **Codeforces Highest Rating: 1314**
 - 👨‍🏫 Competitive Programming Mentor at **Green University of Bangladesh**
 - 🏛️ Former **General Secretary** of Green University Competitive Programming Club
 - 💻 Interested in **Software Engineering, Backend Development & Full-Stack Development**
